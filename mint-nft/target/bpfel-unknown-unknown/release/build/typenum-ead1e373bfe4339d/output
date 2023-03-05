@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/workspaces/Rust-Solana-Tutorial/nfts/mint-nft/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/workspaces/Rust-Solana-Tutorial/nfts/mint-nft/target/bpfel-unknown-unknown/release/build/typenum-ead1e373bfe4339d/out/op.rs

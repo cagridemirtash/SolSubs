@@ -1,0 +1,12 @@
+/workspaces/Rust-Solana-Tutorial/nfts/mint-nft/target/release/deps/proc_macro2-c49d1a25dbbe9aee.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/workspaces/Rust-Solana-Tutorial/nfts/mint-nft/target/release/deps/libproc_macro2-c49d1a25dbbe9aee.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/workspaces/Rust-Solana-Tutorial/nfts/mint-nft/target/release/deps/proc_macro2-c49d1a25dbbe9aee.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/marker.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/parse.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/detection.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/fallback.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.39/src/wrapper.rs:
